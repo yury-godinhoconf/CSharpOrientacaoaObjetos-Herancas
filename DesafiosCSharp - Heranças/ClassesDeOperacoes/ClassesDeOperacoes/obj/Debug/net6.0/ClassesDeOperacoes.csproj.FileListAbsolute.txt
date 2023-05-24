@@ -1,0 +1,15 @@
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\bin\Debug\net6.0\ClassesDeOperacoes.exe
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\bin\Debug\net6.0\ClassesDeOperacoes.deps.json
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\bin\Debug\net6.0\ClassesDeOperacoes.runtimeconfig.json
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\bin\Debug\net6.0\ClassesDeOperacoes.dll
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\bin\Debug\net6.0\ClassesDeOperacoes.pdb
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\obj\Debug\net6.0\ClassesDeOperacoes.csproj.AssemblyReference.cache
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\obj\Debug\net6.0\ClassesDeOperacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\obj\Debug\net6.0\ClassesDeOperacoes.AssemblyInfoInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\obj\Debug\net6.0\ClassesDeOperacoes.AssemblyInfo.cs
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\obj\Debug\net6.0\ClassesDeOperacoes.csproj.CoreCompileInputs.cache
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\obj\Debug\net6.0\ClassesDeOperacoes.dll
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\obj\Debug\net6.0\refint\ClassesDeOperacoes.dll
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\obj\Debug\net6.0\ClassesDeOperacoes.pdb
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\obj\Debug\net6.0\ClassesDeOperacoes.genruntimeconfig.cache
+C:\Projetos\TreinamentoAluraCSharp - HERANÇAS\DesafiosCSharp - Heranças\ClassesDeOperacoes\ClassesDeOperacoes\obj\Debug\net6.0\ref\ClassesDeOperacoes.dll
